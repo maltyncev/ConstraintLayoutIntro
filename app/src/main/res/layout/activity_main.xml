@@ -16,8 +16,9 @@
         android:layout_marginRight="8dp"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.341"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="167dp" />
+        tools:layout_editor_absoluteY="169dp" />
 
     <Button
         android:id="@+id/button"
